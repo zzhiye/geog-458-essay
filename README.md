@@ -62,7 +62,7 @@ Lastly, for the ninth visualization, it utilizes a custom basemap to showcase th
 
 As for responsive design, Najera’s work does support responsive design as it is built on ArcGIS’ StoryMap platform. For example, when browsing on my laptop, I am able to scroll and view the geo-narrative while clicking on arrows to view visualizations. When I switch to my iPhone 11, I am still able to view everything smoothly and neatly just by scrolling.
 
-![Responsive Design](img/responsive.png)
+![Responsive Design](img/Responsive.PNG)
 *Figure 11: Responsive Design on Iphone 11*
 
 ## Pros and Cons
