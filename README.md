@@ -88,8 +88,13 @@ On a different topic, our readings also focused on map design and geovisualizati
 ## References
 
 Aitken, S., & Craine, J. (2011). Affective Geovisualisations. Retrieved March 19, 2021, from https://drive.google.com/file/d/1aqMFkewNT9s9nrAecAVYiaBAbtCrf7xj/view
+
 Crampton, J., & Krygier, J. (2016). An Introduction to Critical Cartography. Retrieved March 19, 2021, from https://drive.google.com/file/d/1IEz_9J4vH6foIrV36wDoIovOYNomZBWj/view
+
 The Guide to Map Design. (n.d.). The Guide to Map Design. Retrieved March 19, 2021, from https://github.com/jakobzhao/geog458/blob/master/weeks/week05/mapbox-design.pdf
+
 Li, W., Batty, M., & Goodchild, M. (2019, October 09). Real-time GIS for smart cities. Retrieved March 19, 2021, from https://drive.google.com/file/d/1COD2OYBxEJThG5Lfx7-nzV0EGtGedndT/view
+
 Najera, S. (2020, May 22). Crime and surveillance. Retrieved March 19, 2021, from https://storymaps.arcgis.com/stories/f1376fa642dd4d7ba321f2ad7991c5a6
+
 Ryan-Mosley, T., & Strong, J. (2020, June 05). The activist dismantling racist police algorithms. Retrieved March 19, 2021, from https://www.technologyreview.com/2020/06/05/1002709/the-activist-dismantling-racist-police-algorithms/
