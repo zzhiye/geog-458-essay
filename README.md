@@ -11,6 +11,7 @@ The digital-geography project that I will be analyzing is called “[Crime and S
 The systematic architecture that Najera’s project uses is ArcGIS StoryMaps’ client, server, and services. As you can see in Figure 1, ArcGIS provides its users with their resources to allow them to build geo-narratives like Najera’s. By bringing in his own data with the public criminal data, Najera was able to build his geo-narrative through the use of js.arcgis.com, server.arcgisonline.com, and services.arcgisonline.com. Additionally, I assume the data flows from the server to the client when Najera puts in his data. Furthermore, the major functions of his geo-narrative is implementing the features such as the on-click/hover popup, zoom levels, the ability to go full screen, and going back to the default viewing mode. Overall, viewing the source code for Najera’s project did not reveal much. However, I gave it my best effort researching the systematic architecture to come to the conclusion that client, server, and services are provided by ArcGIS when using StoryMaps and that the data used by Najera flows from ArcGIS’ server to its client.
 
 ![Systematic Architecture](img/system_arch.png)
+
 *Figure 1: System Architecture*
 
 ## UI/UX and Web Mapping Design
