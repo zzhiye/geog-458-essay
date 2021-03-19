@@ -65,7 +65,6 @@ As for responsive design, Najera’s work does support responsive design as it i
 ![Responsive Design](img/responsive.png)
 *Figure 11: Responsive Design on Iphone 11*
 
-
 ## Pros and Cons
 
 #### Pros
